@@ -8,7 +8,7 @@ page.metaDescription=A REST-based web service for remote app publishing and cata
 
 <div id="qv-wrapper">
 <div id="qv">
-  <h2>In this document</h2>
+  <h2>new info --- In this document</h2>
   <!-- TODO: Update TOC -->
   <ol>
     <li><a href="#publishing_api_overview">Publishing API</a>
