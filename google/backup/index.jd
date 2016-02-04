@@ -2,7 +2,7 @@ page.title=Android Backup Service
 @jd:body
 
 
-<p>Android Backup Service provides a <em>backup transport</em> for Android's <a
+<p>------- Android Backup Service provides a <em>backup transport</em> for Android's <a
 href="{@docRoot}guide/topics/data/backup.html">data backup</a> framework, which allows you
 to copy a user's persistent app data to remote "cloud" storage. Backing up persistent data
 this way provides a restore point for the app on most devices running Android 2.2 or
